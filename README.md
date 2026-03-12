@@ -42,7 +42,7 @@ and work together perfectly like for example use it to serarch on the internet t
 give an infor throu telegram and u can set it up for any other perpose depend on what ur want this type of shit
 only work and have money is Freelandcer it goat for find money on internet but cant become an ai- engineer cuzz it too ez no
 
-
+---- still more but learn --
 
 
 
@@ -108,3 +108,4 @@ we import our model from clauudde model etc etc
 
 #note : even ur use universer u still need an api key 
 so go to.env
+
